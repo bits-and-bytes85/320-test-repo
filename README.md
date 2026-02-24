@@ -9,6 +9,8 @@ Ensuring your code is well documented is crucial in software engineering...
 Line 4!
 
 Line 5!
+
+etc......
 Line 6!
 actually we also have line 6.
 Line 6!
